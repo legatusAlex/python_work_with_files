@@ -1,0 +1,16 @@
+{
+   "values":[
+      {
+         "id":"778",
+         "name":"cicd_instruments",
+         "fullName":"CI\\CD Instruments",
+         "mail":""
+      },
+      {
+         "id":"777",
+         "fullName":"Automation",
+         "name":"automation",
+         "mail":""
+      }
+   ]
+}
